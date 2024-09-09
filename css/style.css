@@ -467,6 +467,8 @@ margin: 0 2rem;
 .callout--primary {
   background: var(--color-primary);
   color: #fff;
+  margin: 0 auto;
+  max-width: 80%;
 }
 .callout__heading {
     color: #fff;
