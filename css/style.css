@@ -439,6 +439,8 @@ margin: 0 2rem;
 }
 .testimonial__image {
     position: relative;
+    width: 100%;
+    height: auto;
 }
 .testimonial__image > img{
  width: 100%;
